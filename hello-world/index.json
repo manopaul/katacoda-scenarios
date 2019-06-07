@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Intro to Linux Scenario",
+  "description": "Linux Commands Scenario",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
@@ -10,7 +10,7 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "CyberShaolin"
     },
     "finish": {
       "text": "finish.md"
@@ -18,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Cyber Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
     "imageid": "bash"
