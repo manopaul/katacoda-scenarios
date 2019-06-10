@@ -1,0 +1,28 @@
+{
+  "title": "SQL Injection",
+  "description": "Hacking databases from the Web.",
+  "details": {
+    "steps": [
+      {
+        "title": "What is SQL Injection?",
+        "text": "sqli-1-what-is.md"
+      },
+      {
+        "title": "SQL Injection Commands",
+        "text": "sqli-2-cmds.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
