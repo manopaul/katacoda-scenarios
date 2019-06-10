@@ -14,12 +14,6 @@
         "course_id": "linux-commands-ctf",
         "title": "CTF - Treasure Hunt using Command Line",
         "description": "Hands On exercise to practice Linux Commands"
-      },
-      {
-        "pathway_id": "katacoda-scenarios",
-        "course_id": "web-hacking",
-        "title": "SQL Injection Hacking ",
-        "description": "Hacking databases from the Web."
       }
     ]
   }
