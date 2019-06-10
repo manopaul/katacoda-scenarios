@@ -16,8 +16,8 @@
         "description": "Hands On exercise to practice Linux Commands"
       },
       {
-        "pathway_id": "web-hacking",
-        "course_id": "sql-injection",
+        "pathway_id": "katacoda-scenarios",
+        "course_id": "web-hacking",
         "title": "SQL Injection Hacking ",
         "description": "Hacking databases from the Web."
       }
