@@ -4,20 +4,22 @@
     "icon": "fa-katacoda",
     "courses": [
       {
+        "pathway_id": "intro-to-linux",
         "course_id": "linux-commands",
         "title": "Linux Commands",
         "description": "Basic and Advanced Linux Commands (for Hackers)"
       },
       {
+        "pathway_id": "intro-to-linux",
         "course_id": "linux-commands-ctf",
         "title": "CTF - Treasure Hunt using Command Line",
         "description": "Hands On exercise to practice Linux Commands"
       },
       {
-        "pathway_id": "courses",
-        "course_id": "web-hacking",
-        "title": "Hacking ",
-        "description": "Learn how to add the Visualise Tab"
+        "pathway_id": "web-hacking",
+        "course_id": "sql-injection",
+        "title": "SQL Injection Hacking ",
+        "description": "Hacking databases from the Web."
       }
     ]
   }
