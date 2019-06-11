@@ -1,38 +1,38 @@
-#Single File Commands
+<h2>Single File Commands</h2>
 
-##ls
+<h3>ls</h3>
 List information about file(s)
 
-##file
+<h3>file</h3>
 Determine file type
 
-##mount
+<h3>mount</h3>
 Mount a file system
 
-##umount
+<h3>umount</h3>
 Unmount a device
 
-##mv
+<h3>mv</h3>
 Move or rename files or directories
 
-##rm
+<h3>rm</h3>
 Remove files
 
-##touch
+<h3>touch</h3>
 Change file timestamps
 
-##head
+<h3>head</h3>
 Output the first part of file(s)
 
-##tail
+<h3>tail</h3>
 Output the last part of file
 
-#Multiple File Commands
-##cmp
+<h2>Multiple File Commands</h2>
+<h3>cmp</h3>
 Compare two files
 
-##diff
+<h3>diff</h3>
 Display the differences between two files
 
-##diff3
+<h3>diff3</h3>
 Show differences among three files
