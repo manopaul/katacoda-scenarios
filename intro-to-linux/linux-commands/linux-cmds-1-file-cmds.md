@@ -1,7 +1,7 @@
-File Commands
 
-ls List information about file(s)
-lsof List open files
+<h3>ls</h3>
+List information about file(s)
+
 file Determine file type
 mount Mount a file system
 umount Unmount a device
